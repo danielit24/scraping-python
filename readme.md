@@ -6,3 +6,7 @@
     source env/bin/active
     pip install -r requirement.txt
 ```
+## Running
+```bash
+    python main.py
+```
